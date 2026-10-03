@@ -1,4 +1,4 @@
-# Networking Core Protocols — TryHackMe
+# Networking Core Protocols:TryHackMe
 
 ## Overview
 
