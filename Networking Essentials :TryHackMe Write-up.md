@@ -1,4 +1,4 @@
-# Networking Essentials – TryHackMe Write-up
+# Networking Essentials TryHackMe Write-up
 
 ## Room Overview
 
