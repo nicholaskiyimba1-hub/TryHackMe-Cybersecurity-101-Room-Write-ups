@@ -1,4 +1,4 @@
-# Defensive Security - TryHackMe Writeup
+# Defensive Security: TryHackMe Writeup
 
 ## Overview
 
