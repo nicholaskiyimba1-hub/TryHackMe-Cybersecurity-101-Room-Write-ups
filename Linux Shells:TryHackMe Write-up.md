@@ -1,4 +1,4 @@
-# Linux Shells — TryHackMe Write-up
+# Linux Shells TryHackMe Write-up
 
 ## Overview
 
