@@ -1,4 +1,4 @@
-# Wireshark: The Basics — TryHackMe Write-Up
+# Wireshark: The Basics: TryHackMe Write-Up
 
 ## Overview
 
